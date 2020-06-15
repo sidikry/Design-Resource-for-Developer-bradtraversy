@@ -250,6 +250,7 @@
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
+| [Stories by Freepik] (http://stories.freepik.com/) | Get custom colored illustrations for free|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
