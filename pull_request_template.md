@@ -1,11 +1,10 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# [Resource Name - Edit this line]
+# [Colors UI] -> [Colors]
 
-Edit this line with Small Description about new added resource 
+Colors UI is a color palettes tool which has prebuild color palettes, solid colors, tint and shade generator and more   
 
-Link: www.linkToResource
+Link: https://www.colorsui.com
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ y] I have performed a self-review of submitted resource and its follows the guidelines of the project.
